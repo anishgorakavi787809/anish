@@ -1,3 +1,5 @@
+
+#Change this to your folder
 f=open ("C:/Users/gorak_a126fcd/Desktop/Anish/anish.txt" ,"w" )
 f.write("Love summer")
 
