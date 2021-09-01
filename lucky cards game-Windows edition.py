@@ -1,5 +1,5 @@
 #Download rules song.mp3 lucksong.mp3 victory.mp3 and wah wah.mp3
-
+#This works only with Windows
 import random
 from pygame import mixer
 import time
