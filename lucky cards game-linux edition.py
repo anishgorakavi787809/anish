@@ -1,3 +1,7 @@
+
+#Download rules song.mp3 lucksong.mp3 victory.mp3 and wah wah.mp3
+
+# This works for linux only!!!!!!!!!!
 import random
 
 import time
