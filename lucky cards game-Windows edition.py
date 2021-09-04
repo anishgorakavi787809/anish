@@ -5,7 +5,6 @@ from pygame import mixer
 import time
 import os
 
-import pygame
 
 playornoplay = input("do you want to play cards game, yes or no? \n")
 

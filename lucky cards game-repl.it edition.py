@@ -12,6 +12,7 @@ https://docs.python.org/3/library/random.html
 https://www.w3schools.com/PYTHON/
 https://www.programiz.com/python-programming/time
 https://www.pygame.org/docs/ref/music.html
+https://docs.replit.com/misc/playing-audio-replit
 """
 
 #This is a comment in python using # i will use this to tell you which it is
